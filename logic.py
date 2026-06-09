@@ -145,6 +145,7 @@ top_scorers_data = [
     (22, 'Килиан Мбаппе', 'Франция', 8)
 ]
 
+
 cursor.executemany('''
 INSERT INTO top_scorers
 (world_cup_id, player_name, country, goals)
