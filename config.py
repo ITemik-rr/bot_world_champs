@@ -1,0 +1,2 @@
+BOT_TOKEN = '8482899652:AAH4JMUoOhU2_Z659elwnJHmvMwa7LkkOIs'
+DATABASE = 'world_cup.db'
